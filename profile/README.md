@@ -1,47 +1,42 @@
-Hi there 👋
+Caballes-Go Securities, Inc.
 
-Welcome to Caballes-Go Securities, Inc. (CGSI).
+Stock Brokerage · Broker-Dealer · Capital Markets
 
-🙋‍♀️ About Us
+Caballes-Go Securities, Inc. (CGSI) is a Philippine stock brokerage company and broker-dealer, providing clients with access to the Philippine capital markets.
 
-Caballes-Go Securities, Inc. is a Philippine securities brokerage firm and a Trading Participant of The Philippine Stock Exchange, Inc.
+This organization is home to the technology and engineering projects that support CGSI's brokerage operations, internal platforms, data, and infrastructure.
 
-Our technology teams build and maintain software, infrastructure, data platforms, and internal tools that support our business and help deliver secure, reliable financial services.
+Technology
 
-🌈 Contribution Guidelines
+Our engineering teams develop and maintain systems across:
 
-Our repositories may have different contribution requirements depending on their purpose and access level.
+Brokerage and trading
+Market data and analytics
+Internal applications and platforms
+Infrastructure and automation
+Security and operational tooling
+Engineering Principles
 
-For each project, please check its README.md, CONTRIBUTING.md, and SECURITY.md before making changes.
+We build with a focus on:
 
-For internal repositories, access and contributions are managed through our organization's teams, repository permissions, and development policies.
+Security
+Reliability
+Operational discipline
+Maintainability
+Auditability
 
-👩‍💻 Useful Resources
-🌐 CGSI Website
-📚 Check individual repositories for project documentation and development guidelines.
-🔐 Security-related information can be found in the applicable repository's SECURITY.md.
-🔒 Security
+Repositories are governed by appropriate access controls, security policies, and development practices.
 
-Protecting client, business, and organizational information is a priority.
+Security
 
-Please never commit passwords, API keys, private keys, credentials, or other sensitive information to our repositories.
+Our repositories may contain proprietary software and other confidential business information.
 
-Security vulnerabilities should not be reported through public GitHub issues. Please follow the security reporting process specified by the applicable repository or organization.
+Never commit credentials, secrets, private keys, client information, or other sensitive data to GitHub.
 
-🏦 What We Work On
+Security vulnerabilities should be reported through the appropriate private reporting channel and not through public GitHub issues.
 
-Our technology projects may include:
+Resources
+CGSI
+Repository-specific documentation and contribution guidelines are maintained within each project.
 
-💻 Applications and services
-📈 Trading and brokerage technology
-📊 Data and analytics
-☁️ Infrastructure and automation
-🔐 Security and compliance
-🛠️ Internal tools and platforms
-🍿 Fun Facts
-
-We believe great technology is built through security, reliability, collaboration, and continuous improvement.
-
-🧙‍♂️ Markdown
-
-We use the power of Markdown to keep our documentation clear, consistent, and easy to navigate.
+© Caballes-Go Securities, Inc.
