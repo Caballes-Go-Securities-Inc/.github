@@ -1,42 +1,23 @@
-Caballes-Go Securities, Inc.
+# Caballes-Go Securities, Inc.
 
-Stock Brokerage · Broker-Dealer · Capital Markets
+**Caballes-Go Securities, Inc. (CGSI)** is a Philippine **broker-dealer and securities firm**, registered with the Securities and Exchange Commission (SEC) and a Trading Participant of the Philippine Stock Exchange (PSE).
 
-Caballes-Go Securities, Inc. (CGSI) is a Philippine stock brokerage company and broker-dealer, providing clients with access to the Philippine capital markets.
+We provide professional securities brokerage services to **institutional investors, corporate clients, high-net-worth individuals, and retail investors**.
 
-This organization is home to the technology and engineering projects that support CGSI's brokerage operations, internal platforms, data, and infrastructure.
+### Our Services
 
-Technology
+* Broker-Assisted Trading
+* Advisory & Execution
+* Market Data & Research
+* Settlement & Custodial Services
 
-Our engineering teams develop and maintain systems across:
+CGSI is committed to delivering **professional, transparent, and client-focused access to the Philippine capital markets**, supported by experienced market professionals and technology-enabled brokerage operations.
 
-Brokerage and trading
-Market data and analytics
-Internal applications and platforms
-Infrastructure and automation
-Security and operational tooling
-Engineering Principles
+### Our Vision
 
-We build with a focus on:
+> **To establish Caballes-Go Securities as a key player in the Philippine securities brokerage industry.**
 
-Security
-Reliability
-Operational discipline
-Maintainability
-Auditability
+**Caballes-Go Securities, Inc.**
+Philippine Broker-Dealer · Securities Brokerage · Capital Markets
 
-Repositories are governed by appropriate access controls, security policies, and development practices.
-
-Security
-
-Our repositories may contain proprietary software and other confidential business information.
-
-Never commit credentials, secrets, private keys, client information, or other sensitive data to GitHub.
-
-Security vulnerabilities should be reported through the appropriate private reporting channel and not through public GitHub issues.
-
-Resources
-CGSI
-Repository-specific documentation and contribution guidelines are maintained within each project.
-
-© Caballes-Go Securities, Inc.
+[Website](https://caballes-go.com/)
